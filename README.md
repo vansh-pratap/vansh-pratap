@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **Web Development, React**
 
-- 📝 I regularly write articles on [https://vanshpratap.hashnode.dev/](https://vanshpratap.hashnode.dev/)
-
 - 📫 How to reach me **vanshptatapsingh13122002@gmail.com**
 
 - ⚡ Fun fact **I have a tinge of 'Funny Sarcasm' in my personality.**
@@ -26,7 +24,6 @@
 <a href="https://twitter.com/VanshPratap20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VanshPratap20" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vansh-pratap-singh-a59a90250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vansh Pratap Singh" height="30" width="40" /></a>
 <a href="https://instagram.com/vansh._.pratap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh._.pratap" height="30" width="40" /></a>
-<a href="https://hashnode.com/@vanshpratap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vanshpratap" height="30" width="40" /></a>
 <a href="https://leetcode.com/VanshPratap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VanshPratap" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vanshptatapsingh13122002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vansh-singh" height="30" width="40" /></a>
 </p>
